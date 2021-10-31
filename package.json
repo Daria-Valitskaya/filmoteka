@@ -1,22 +1,22 @@
 {
-  "name": "team_project_js",
+  "name": "filmoteka",
   "version": "1.1.0",
   "description": "Включите отображение скрытых файлов и папок в проводнике своей операционной системы, иначе вы не\r сможете выбрать и скопировать себе файлы настроек проекта, имена которых начинаются с точки.",
   "main": "index.js",
-  "homepage": "https://Anurov-Prihodko.github.io/team_project_js",
+  "homepage": "https://daria-valitskaya.github.io/filmoteka",
   "scripts": {
     "dev": "parcel src/*.html --open",
-    "build": "parcel build src/*.html --public-url /team_project_js/"
+    "build": "parcel build src/*.html --public-url /filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Anurov-Prihodko/team_project_js.git"
+    "url": "git+https://github.com/daria-valitskaya/filmoteka.git"
   },
   "keywords": [],
-  "author": "Oleksii Anurov-Prikhodko <anyrov.prihodko@gmail.com>",
+  "author": "daria-valitskaya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Anurov-Prihodko/team_project_js/issues"
+    "url": "https://github.com/daria-valitskaya/filmoteka/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
